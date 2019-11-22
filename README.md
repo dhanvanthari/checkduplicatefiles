@@ -12,6 +12,6 @@ root@py-checkduplicatefiles:/app#python check_AllDuplicateFiles.py testdir
 ```
 ### OR
 
-You directly pull image from docker hub
+You can directly pull image from docker hub
 
 `docker pull dhanvanthari/python-checkduplicatefiles`
